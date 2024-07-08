@@ -1,5 +1,5 @@
 # rust_code
-rust学习代码:以《Rust程序设计语言为主》
+rust学习代码:以《Rust程序设计语言》为主
 
 1、入门指南
 
